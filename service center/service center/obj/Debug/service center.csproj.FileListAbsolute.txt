@@ -1,0 +1,17 @@
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\service center.exe.config
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\service center.exe
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\service center.pdb
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\MySql.Data.dll
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\Google.Protobuf.dll
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\bin\Debug\MySql.Data.xml
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service_center.Form1.resources
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service_center.Form2.resources
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service_center.Properties.Resources.resources
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.csproj.GenerateResource.Cache
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.exe
+D:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.pdb
+d:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service_center.Form3.resources
+d:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service_center.Form4.resources
+d:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.csprojAssemblyReference.cache
+d:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.csproj.CoreCompileInputs.cache
+d:\ВГПК\КУРСАЧ БД\Новый сервисный центр\service center\service center\obj\Debug\service center.csproj.CopyComplete
